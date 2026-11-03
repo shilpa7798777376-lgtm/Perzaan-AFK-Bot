@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "anshmok778",
+    "username": "ganesha_bot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "ShadowMC678.aternos.me",
-    "port": 15258,
+    "ip": "sadnode1.sadhost.com",
+    "port": 26410,
     "version": "1.21.1"
   },
   "position": {
@@ -30,8 +30,8 @@
       "repeat": true,
       "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to shadow craft 678",
+        "Best Server",
+        "Use /shop, to buy anything.",
         "I like to play Minecraft!"
       ]
     },
