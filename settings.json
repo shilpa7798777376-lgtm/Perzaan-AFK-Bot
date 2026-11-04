@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sadnode1.sadhost.com",
+    "ip": "sadnode1.sadhost.com:26410",
     "port": 26410,
     "version": "1.21.1"
   },
